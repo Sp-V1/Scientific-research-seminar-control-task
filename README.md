@@ -1,3 +1,3 @@
-# Scientific-research-seminar-control-task
+# Scientific research seminar: control task
 
 README file
